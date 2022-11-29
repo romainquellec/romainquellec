@@ -1,16 +1,16 @@
-### Hi there 👋
+Interest in Remote Tech and Climate / Carbon Tech.
+Interest in Rust, WASM & FP.
 
-<!--
-**romainquellec/romainquellec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://calendly.com/romainquellec
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Chief Technology Officer with a demonstrated history of working in the web industry (marketplace, high traffic websites, startups)
+
+Technologies used with enthusiasm : Typescript (Node.js/Apollo/React/Next.js/Headless-components), Rust, PostgreSQL, GraphQL, FP (OCaml/Haskell/ReScript)
+
+Methods/Metrics used with enthusiasm : TDD (ATDD, BDD, DDD), Modular Monolith, Clean Architecture, Four Key Metrics
+
+-----
+
+Founder of a catering marketplace (B2B) in 2016. (In touch with Sales, Marketing and Operations)
