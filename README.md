@@ -9,6 +9,6 @@ I consider myself a polyglot developer and am open to all types of languages. I 
 
 -----
 
-Technologies used with enthusiasm : FP (OCaml, Elixir, Haskell, Scala, Gleam), Rust, Go, Python, PostgreSQL
+Technologies used with enthusiasm : FP (OCaml, Elixir, Haskell, Scala, Gleam), Rust, Go, PostgreSQL
 
 Methods/Metrics used with enthusiasm : TDD (ATDD, BDD, DDD), Modular Monolith, Clean Architecture, Four Key Metric
